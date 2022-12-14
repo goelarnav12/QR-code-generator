@@ -1,0 +1,31 @@
+# QR-code-generator
+
+Converts a website link to QR and also shortens the link.
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/goelarnav12/QR-code-generator
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Run the following command
+
+```bash
+  python3 main.py
+```
+
+
+## Authors
+
+- [@goelarnav12](https://www.github.com/goelarnav12)
+
+
+### Hi, I'm Arnav! 👋
+
